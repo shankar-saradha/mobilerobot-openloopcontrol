@@ -88,8 +88,7 @@ Insert image here
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
-
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=BwoM7Sri-BE)
+(https://www.youtube.com/watch?v=BwoM7Sri-BE)
 
 <br/>
 <br/>
